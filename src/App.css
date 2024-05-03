@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.bi1{background-image: url(imgs/1.jpg);background-size: 100% 100%;background-attachment: local;}
+.bi2{background-image: url(imgs/6.jpg);background-size: 100% 100%;background-attachment: local;}
+.bi3{background-image: url(image/1.jpg);background-size: 100% 100%;background-attachment: local;}
+.bi4{background-image: url(images/1.jpg);background-size: 100% 100%;background-attachment: local;}
+.bi5{background-image: url(imgss/1.jpg);background-size: 100% 100%;background-attachment: local;}
+
+.btn1{height: 50px;width: 150px;background-color: #ebc634;border: none;border-radius: 10px;}
+.btn1:hover{background-color: #ebc634c0;}
+
+.btn2{height: 50px;width: 150px;color:#0b3b25 ;border-radius:5px ;background-color: white;transition: 1s;border: 1px solid black;}
+.btn2:hover{color: #a8e33b;border: 1px solid #a8e33b;}
+
+.btn3{height: 50px;width: 170px;color: #0b3b25;background-color: #fadc19;border: none;border-radius: 5px;}
+.btn3:hover{background-color: #cfba36;}
+
+.btn4{height: 70px;width: 70px;font-size: 40px;border: none;border-radius: 50px;background-color: white;color: #497059;}
+
+.btn5{height: 50px;width: 50px;font-size: 22px;border: none;border-radius: 50px;color: white;background-color: #acc2b6;}
+.btn5:hover{background-color: #5a7566;}
